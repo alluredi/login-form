@@ -1,0 +1,48 @@
+*{
+    padding: 5px;
+    margin: 3px;
+    box-sizing: border-box;
+}
+.main{
+    border: 5px solid gainsboro;
+    background-color: black;
+    color: rgb(73, 77, 80);
+    width: 1200px;
+    height: 150px;
+    text-align: left;
+}
+.box{
+    padding: 5px;
+    color: aliceblue;
+}
+#btn{
+    background-color: black;
+    color: aliceblue;
+    width: 150px;
+    padding: 5px;
+}
+#footer{
+    background-color: black;
+    color: aliceblue;
+    text-align: center;
+    display:flex;
+    justify-content: center;
+    align-items: flex-end;
+    height: 10vh;
+}
+#table{
+    border-collapse: collapse;
+}
+#form{
+    width: 350px;
+    height: 350px;
+}
+#fullname{
+    width: 250px;
+}
+#email{
+    width: 250px;
+}
+#toi{
+    width: 250px;
+}
