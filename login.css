@@ -1,0 +1,46 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.container{
+    
+    background-color: green;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#box{
+   padding: 80px;
+   background-color: white;
+    
+}
+#USERNAME{
+    height: 50px;
+    width: 250px;
+    background-color: rgb(236, 232, 232);
+    padding: 10px;
+    border: none;
+    
+}
+#password{
+    height: 50px;
+    width: 250px;
+    background-color: rgb(236, 232, 232);
+    padding: 10px;
+    border: none;
+}
+#log{
+    background-color: green;
+    width: 250px;
+    height: 50px;
+    border: none;
+}
+a{
+    text-decoration: none;
+}
+.ca{
+    color: green;
+}
